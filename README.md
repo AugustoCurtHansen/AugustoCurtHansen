@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AugustoCurtHansen
+- 👋 Hi, I’m @AugustoCurtHansen, 19 years old
 - 👀 I’m interested in program
-- 🌱 I’m currently studying Computer Scince
+- 🌱 I’m currently studying Computer Scince at FURB
 - 📫 How to reach me: augustocurt@hotmail.com
 
 <!---
