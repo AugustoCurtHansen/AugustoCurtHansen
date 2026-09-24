@@ -1,6 +1,4 @@
-### Hi, I'm Augusto Curt Hansen 👋 SAP + .NET Software Engineer
-
-I bridge **legacy SAP S/4HANA** systems with **modern cloud-native .NET** architecture, from ABAP RAP and CDS views to containerized C# microservices.
+### Hi, I'm Augusto Curt Hansen 👋 SAP and .NET Developer
 
 - 🔭 5+ years building automated SAP ↔ .NET integrations
 - 📍 Based in Dublin, Ireland 🇮🇪
