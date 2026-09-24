@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @AugustoCurtHansen
-- 👀 I’m a Systems Analyst at Kyly Ltda, Pomerode SC, Brazil
-- 🌱 I’m currently studying Systems of Information at Uniasselvi
-- 📫 How to reach me: augustocurtdev@hotmail.com
-- 📞 Call me: +55 (47) 99618-1099 or +353 083 413 2311
+### Hi, I'm Augusto Curt Hansen 👋 SAP + .NET Software Engineer
 
-<!---
-AugustoCurtHansen/AugustoCurtHansen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I bridge **legacy SAP S/4HANA** systems with **modern cloud-native .NET** architecture, from ABAP RAP and CDS views to containerized C# microservices.
+
+- 🔭 5+ years building automated SAP ↔ .NET integrations
+- 📍 Based in Dublin, Ireland 🇮🇪
+- ✈️ On a planned career break for professional development: English immersion (C1 Advanced) at International House Dublin
+- 🌱 Currently studying Information Systems (Uniasselvi)
+
+**Languages & Tools** :arrow_heading_down:
+
+[![Skills](https://skillicons.dev/icons?i=cs,dotnet,react,ts,html,css,java,spring,azure,git&theme=dark)](https://skillicons.dev)
+
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAPUI5](https://img.shields.io/badge/SAPUI5-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
