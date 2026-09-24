@@ -7,7 +7,7 @@
 
 **Languages & Tools** :arrow_heading_down:
 
-[![Skills](https://skillicons.dev/icons?i=cs,dotnet,react,ts,html,css,java,spring,azure,git,abap&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cs,dotnet,react,js,ts,html,css,java,spring,azure,git&theme=dark)](https://skillicons.dev)
 
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
